@@ -11,5 +11,5 @@ but the actual file being used is always `index.html`.
 1. clone repo and `cd` to its directory
 2. `npm install`
 3. `npm start`
-4. open [localhost:3000](localhost:3000)
+4. open [localhost:3000](http://localhost:3000)
 5. see `index.html` instead of `foo.html`
